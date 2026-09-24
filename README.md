@@ -1,7 +1,6 @@
-# CosmogenicNuFitter
+# CosmoNuFitter
 
-**CosmogenicNuFitter** is a framework for fast modelling and fitting of cosmogenic Neutrino spectra using precomputed Neutrino propagation kernels generated with CRPropa3.
-Designed as a direct extension of [CosmogenicNuForge](https://github.com/mysmimal/CosmogenicNuForge).
+**CosmoNuFitter** is a framework for fast modelling and fitting of Cosmogenic Neutrino and Cosmic Ray spectra using precomputed green's functions generated with PriNCe and validated using CRPropa3. 
 
 Currently under development as part of my Bachelor thesis.
 
